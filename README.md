@@ -40,3 +40,12 @@ More information can be found in the 'README.txt' inside the dataset folder.
 
 To see a comprehensive explanation on the feature selection, refer to the 'features_info.txt' file.
 To see the complete list of variables of each feature vector available, refer to the 'features.txt' file.
+
+# Recreating the activity
+
+1) Download the run_analysis.R script found in this repo
+2) Review the parameters for the working directory
+3) Run the R script file
+4) An output file is expected to be created - "TidyData.txt"
+
+
