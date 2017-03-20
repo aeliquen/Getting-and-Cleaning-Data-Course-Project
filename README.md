@@ -6,18 +6,18 @@ This README.md file explains how all of the scripts work and how they are connec
 
 The primary required course project deliverable is an R script called run_analysis.R that does the following:
 
-_1.Merges the training and the test sets to create one data set.
-_2.Extracts only the measurements on the mean and standard deviation for each measurement.
-_3.Uses descriptive activity names to name the activities in the data set
-_4.Appropriately labels the data set with descriptive variable names.
-_5.From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
+1.) Merges the training and the test sets to create one data set.
+2.) Extracts only the measurements on the mean and standard deviation for each measurement.
+3.) Uses descriptive activity names to name the activities in the data set
+4.) Appropriately labels the data set with descriptive variable names.
+5.) From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 Also part of this repository are the following:
 
-_TidyData.txt                                                 - final resulting tidy independent dataset
-_CodeBook.md                                                  - code book that describes the variables, the data, and any _transformations or work that you performed to clean up the data
-_run_analysis.R                                               - R script that analyzes and cleans up the provided dataset
-_Human Activity Recognition Using Smartphones Data Set        - a copy of the dataset provided in the course project
+1) TidyData.txt                                                 - final resulting tidy independent dataset
+2) CodeBook.md                                                  - code book that describes the variables, the data, and any transformations or work that you performed to clean up the data
+3) run_analysis.R                                               - R script that analyzes and cleans up the provided dataset
+4) Human Activity Recognition Using Smartphones Data Set        - a copy of the dataset provided in the course project
 
 Background of the Dataset:
 
